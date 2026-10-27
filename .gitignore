@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Java / Maven output
+out/
+target/
+*.class
+
+# Secrets and local environment files
+.env
+.env.*
